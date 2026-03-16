@@ -1,7 +1,10 @@
 # Sumarte Web
 
 Una plataforma web para conectar profesionales de la música con estudiantes y clientes de todo el mundo. Los profesionales pueden registrarse, compartir su conocimiento y ofrecer servicios musicales.
+## ⚠️ Estatus del proyecto
 
+Este proyecto es funcional pero **se encuentra en desarrollo activo**.  
+Algunas partes del código aún no están completamente testeadas y pueden cambiar en futuras versiones.
 ## Características
 
 - **Registro de Profesionales**: Los músicos y profesionales de la música pueden registrarse en la plataforma.
