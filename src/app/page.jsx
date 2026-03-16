@@ -7,7 +7,6 @@ import { FeaturedInstructors } from '@/components/FeaturedInstructors';
 import { CtaSection } from '@/components/CtaSection';
 import { SkeletonCard } from '@/components/ui/skeleton';
 
-// This will be statically generated at build time
 export const dynamic = 'force-static';
 
 export default function Home() {
